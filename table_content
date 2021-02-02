@@ -1,24 +1,36 @@
-<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
-	<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
-		<td>Bozano Growth Advisory FIC FIM</td>
-	</tr>
-	<tr style="border-collapse:collapse">
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="{$HEADING_COLLAPSE_ID}">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#{$COLLAPSE_ID}" aria-expanded="false" aria-controls="{$COLLAPSE_ID}"> 
+          Bozano Growth Advisory FIC FIM
+        </button>
+      </h5>
+    </div>
+
+    <div id="{$COLLAPSE_ID}" class="collapse" aria-labelledby="{$HEADING_COLLAPSE_ID}" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>Bozano Growth Advisory FIC FIM</td>
+				</tr>
 				<tr style="border-collapse:collapse">
-					<td >
-						<table class="table table-hover " >
-							<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-								<tr >
-									<th scope="col" class="bg-warning">Valor da Posição</th>
-									<th scope="col" class="bg-warning">Deságio</th>
-									<th scope="col" class="bg-warning">Valor da Compra</th>
-									<th scope="col" class="bg-warning">Validade</th>
-									<th scope="col" class="bg-warning"></th>
-								</tr>
-							</thead>
-							<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
-								<tr >
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Deságio</th>
+												<th scope="col" class="bg-warning">Valor da Compra</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
 	<td style="text-align:center;vertical-align:middle">R$ 5,000,000</td>
 	<td style="text-align:center;vertical-align:middle">25%</td>
 	<td style="text-align:center;vertical-align:middle">R$ 4,000,000</td>
@@ -30,35 +42,50 @@
 	</td>
 </tr>
 
-							</tbody>
+										</tbody>
+									</table>
+								</td>
+							</tr>
 						</table>
 					</td>
 				</tr>
 			</table>
-		</td>
-	</tr>
-</table>
-<br><br><table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
-	<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
-		<td>Starboard Special Situations II Advisory FIC FIM CP</td>
-	</tr>
-	<tr style="border-collapse:collapse">
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="{$HEADING_COLLAPSE_ID}">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#{$COLLAPSE_ID}" aria-expanded="false" aria-controls="{$COLLAPSE_ID}"> 
+          Starboard Special Situations II Advisory FIC FIM CP
+        </button>
+      </h5>
+    </div>
+
+    <div id="{$COLLAPSE_ID}" class="collapse" aria-labelledby="{$HEADING_COLLAPSE_ID}" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>Starboard Special Situations II Advisory FIC FIM CP</td>
+				</tr>
 				<tr style="border-collapse:collapse">
-					<td >
-						<table class="table table-hover " >
-							<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-								<tr >
-									<th scope="col" class="bg-warning">Valor da Posição</th>
-									<th scope="col" class="bg-warning">Deságio</th>
-									<th scope="col" class="bg-warning">Valor da Compra</th>
-									<th scope="col" class="bg-warning">Validade</th>
-									<th scope="col" class="bg-warning"></th>
-								</tr>
-							</thead>
-							<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
-								<tr >
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Deságio</th>
+												<th scope="col" class="bg-warning">Valor da Compra</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
 	<td style="text-align:center;vertical-align:middle">R$ 688,760</td>
 	<td style="text-align:center;vertical-align:middle">123%</td>
 	<td style="text-align:center;vertical-align:middle">R$ -123,976</td>
@@ -70,35 +97,50 @@
 	</td>
 </tr>
 
-							</tbody>
+										</tbody>
+									</table>
+								</td>
+							</tr>
 						</table>
 					</td>
 				</tr>
 			</table>
-		</td>
-	</tr>
-</table>
-<br><br><table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
-	<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
-		<td>XP Private Equity I FIP Multiestratégia</td>
-	</tr>
-	<tr style="border-collapse:collapse">
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="{$HEADING_COLLAPSE_ID}">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#{$COLLAPSE_ID}" aria-expanded="false" aria-controls="{$COLLAPSE_ID}"> 
+          XP Private Equity I FIP Multiestratégia
+        </button>
+      </h5>
+    </div>
+
+    <div id="{$COLLAPSE_ID}" class="collapse" aria-labelledby="{$HEADING_COLLAPSE_ID}" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>XP Private Equity I FIP Multiestratégia</td>
+				</tr>
 				<tr style="border-collapse:collapse">
-					<td >
-						<table class="table table-hover " >
-							<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-								<tr >
-									<th scope="col" class="bg-warning">Valor da Posição</th>
-									<th scope="col" class="bg-warning">Deságio</th>
-									<th scope="col" class="bg-warning">Valor da Compra</th>
-									<th scope="col" class="bg-warning">Validade</th>
-									<th scope="col" class="bg-warning"></th>
-								</tr>
-							</thead>
-							<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
-								<tr >
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Deságio</th>
+												<th scope="col" class="bg-warning">Valor da Compra</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
 	<td style="text-align:center;vertical-align:middle">R$ 544,876</td>
 	<td style="text-align:center;vertical-align:middle">25%</td>
 	<td style="text-align:center;vertical-align:middle">R$ 435,900</td>
@@ -110,12 +152,15 @@
 	</td>
 </tr>
 
-							</tbody>
+										</tbody>
+									</table>
+								</td>
+							</tr>
 						</table>
 					</td>
 				</tr>
 			</table>
-		</td>
-	</tr>
-</table>
-<br><br>
+
+		</div>
+	</div>
+</div>
