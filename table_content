@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="7b5a4adfab904038ae573f231146fe27">
+    <div class="card-header" id="26f9a2865c8c4d9eb671f709a0c6db4a">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#532b671ee38d4ca899e66b3cdf52f025" aria-expanded="false" aria-controls="532b671ee38d4ca899e66b3cdf52f025"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#0ff77ade8452452b84b434d0c493ffc2" aria-expanded="false" aria-controls="0ff77ade8452452b84b434d0c493ffc2"> 
           Bozano Growth Advisory FIC FIM
         </button>
       </h5>
     </div>
 
-    <div id="532b671ee38d4ca899e66b3cdf52f025" class="collapse" aria-labelledby="7b5a4adfab904038ae573f231146fe27" data-parent="#accordionExample">
+    <div id="0ff77ade8452452b84b434d0c493ffc2" class="collapse" aria-labelledby="26f9a2865c8c4d9eb671f709a0c6db4a" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -55,15 +55,70 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="a66d528b71264d848a1a88ecfa31b06b">
+    <div class="card-header" id="c4f5b61a08dc4c99889453d661ccaba8">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#f40c3f5f449942e3b184f6db3424ebe8" aria-expanded="false" aria-controls="f40c3f5f449942e3b184f6db3424ebe8"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#44045dfc098241e1865655c7cfcd6f44" aria-expanded="false" aria-controls="44045dfc098241e1865655c7cfcd6f44"> 
+          Redpoint eventures Advisory FIC FIM CP
+        </button>
+      </h5>
+    </div>
+
+    <div id="44045dfc098241e1865655c7cfcd6f44" class="collapse" aria-labelledby="c4f5b61a08dc4c99889453d661ccaba8" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>Redpoint eventures Advisory FIC FIM CP</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Deságio</th>
+												<th scope="col" class="bg-warning">Valor da Compra</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">R$ 176,493</td>
+	<td style="text-align:center;vertical-align:middle">30%</td>
+	<td style="text-align:center;vertical-align:middle">R$ 132,370</td>
+	<td style="text-align:center;vertical-align:middle">10/01/2022</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=Redpoint eventures Advisory FIC FIM CP - 31.844.667/0001-02&discount=30&value=R$ 132,370&sell_id=cr9lvbs8f4kgpbfruccr9lvbsje5gttl" data-toggle="lightbox" data-width="800">
+		<button type="button" class="btn btn-primary btn-sm">Comprar</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="d706045f295149919079e4ced1315989">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#73eb62aee9d143cd92d20ed0699d5ca6" aria-expanded="false" aria-controls="73eb62aee9d143cd92d20ed0699d5ca6"> 
           Starboard Special Situations II Advisory FIC FIM CP
         </button>
       </h5>
     </div>
 
-    <div id="f40c3f5f449942e3b184f6db3424ebe8" class="collapse" aria-labelledby="a66d528b71264d848a1a88ecfa31b06b" data-parent="#accordionExample">
+    <div id="73eb62aee9d143cd92d20ed0699d5ca6" class="collapse" aria-labelledby="d706045f295149919079e4ced1315989" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -110,15 +165,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="8e36767ec5684a68afd7fc6bba44d309">
+    <div class="card-header" id="efdffa4131e1420d90fda339f4c1901c">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#3c55f3c7f7a4469999ada3936746364e" aria-expanded="false" aria-controls="3c55f3c7f7a4469999ada3936746364e"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#527b951d7ea242d4ae2054a29b1a7cf0" aria-expanded="false" aria-controls="527b951d7ea242d4ae2054a29b1a7cf0"> 
           XP Private Equity I FIP Multiestratégia
         </button>
       </h5>
     </div>
 
-    <div id="3c55f3c7f7a4469999ada3936746364e" class="collapse" aria-labelledby="8e36767ec5684a68afd7fc6bba44d309" data-parent="#accordionExample">
+    <div id="527b951d7ea242d4ae2054a29b1a7cf0" class="collapse" aria-labelledby="efdffa4131e1420d90fda339f4c1901c" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
