@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="7adf2c832f1345699e33247e064b6381">
+    <div class="card-header" id="efbfad16d1774719bc98e98f3391570f">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#fc7cee1f56764f28864e12e32c551af3" aria-expanded="false" aria-controls="fc7cee1f56764f28864e12e32c551af3"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#95bbf5beb54e411086a145a4bf5a8c7f" aria-expanded="false" aria-controls="95bbf5beb54e411086a145a4bf5a8c7f"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="fc7cee1f56764f28864e12e32c551af3" class="collapse" aria-labelledby="7adf2c832f1345699e33247e064b6381" data-parent="#accordionExample">
+    <div id="95bbf5beb54e411086a145a4bf5a8c7f" class="collapse" aria-labelledby="efbfad16d1774719bc98e98f3391570f" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -25,7 +25,7 @@
 												<th scope="col" class="bg-warning">Valor da Posição</th>
 												<th scope="col" class="bg-warning">Desconto</th>
 												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
-												<th scope="col" class="bg-warning">Valor a Pagar Fundo DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
 												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
 												<th scope="col" class="bg-warning">Validade</th>
 												<th scope="col" class="bg-warning"></th>
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="35cf434eb84b4bf8814f662e49e2f934">
+    <div class="card-header" id="4859590f743a44f396af3ad1ad6de3f5">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#27d100dc9e0f4b249483c90684262dc5" aria-expanded="false" aria-controls="27d100dc9e0f4b249483c90684262dc5"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#92acda1be14c4e3296f3220444a4b0b4" aria-expanded="false" aria-controls="92acda1be14c4e3296f3220444a4b0b4"> 
           XP Private Equity I FIP Multiestratégia
         </button>
       </h5>
     </div>
 
-    <div id="27d100dc9e0f4b249483c90684262dc5" class="collapse" aria-labelledby="35cf434eb84b4bf8814f662e49e2f934" data-parent="#accordionExample">
+    <div id="92acda1be14c4e3296f3220444a4b0b4" class="collapse" aria-labelledby="4859590f743a44f396af3ad1ad6de3f5" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -84,7 +84,7 @@
 												<th scope="col" class="bg-warning">Valor da Posição</th>
 												<th scope="col" class="bg-warning">Desconto</th>
 												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
-												<th scope="col" class="bg-warning">Valor a Pagar Fundo DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
 												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
 												<th scope="col" class="bg-warning">Validade</th>
 												<th scope="col" class="bg-warning"></th>
