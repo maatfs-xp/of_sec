@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="5a9de1da0358499aa3e0a7fa25cb8ba0">
+    <div class="card-header" id="617cb0294d1e459e9e4f1240dfd550c9">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#fbf0e22cee2a4900bc7de030a3d4d9d7" aria-expanded="false" aria-controls="fbf0e22cee2a4900bc7de030a3d4d9d7"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#6e01a2ee976b41348da5da817776baf3" aria-expanded="false" aria-controls="6e01a2ee976b41348da5da817776baf3"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="fbf0e22cee2a4900bc7de030a3d4d9d7" class="collapse" aria-labelledby="5a9de1da0358499aa3e0a7fa25cb8ba0" data-parent="#accordionExample">
+    <div id="6e01a2ee976b41348da5da817776baf3" class="collapse" aria-labelledby="617cb0294d1e459e9e4f1240dfd550c9" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,74 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="62a8f235bc3e4f43b13cab879056661d">
+    <div class="card-header" id="85962b81c99244d484fbca113220da2d">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#d1db7c4c27e049c8bdde47ae1d89ad31" aria-expanded="false" aria-controls="d1db7c4c27e049c8bdde47ae1d89ad31"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#1a4f99c40beb48b99446424c9e60480d" aria-expanded="false" aria-controls="1a4f99c40beb48b99446424c9e60480d"> 
+          Perfin Mercury FIP Infra
+        </button>
+      </h5>
+    </div>
+
+    <div id="1a4f99c40beb48b99446424c9e60480d" class="collapse" aria-labelledby="85962b81c99244d484fbca113220da2d" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>Perfin Mercury FIP Infra</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar</th>
+												<th scope="col" class="bg-warning">Compromisso Futuro</th>
+												<th scope="col" class="bg-warning">Compromisso Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">3.999.677,59</td>
+	<td style="text-align:center;vertical-align:middle">15,00 %</td>
+	<td style="text-align:center;vertical-align:middle">3.599.709,83</td>
+	<td style="text-align:center;vertical-align:middle">36.000.000,00</td>
+	<td style="text-align:center;vertical-align:middle">39.599.709,83</td>
+	<td style="text-align:center;vertical-align:middle">02/08/2022</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=Perfin Mercury FIP Infra&discount=15.0&value=39.599.709,83&sell_id=6m7lt6mxisjdbhs06p6m7ltzau2hmt78" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Comprar</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="4590c1a3f91d452fbcd448f8a1eeb754">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#9b8404dcb7eb40a1939e563a8607cf18" aria-expanded="false" aria-controls="9b8404dcb7eb40a1939e563a8607cf18"> 
           Vinci Impacto e Retorno Advisory FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="d1db7c4c27e049c8bdde47ae1d89ad31" class="collapse" aria-labelledby="62a8f235bc3e4f43b13cab879056661d" data-parent="#accordionExample">
+    <div id="9b8404dcb7eb40a1939e563a8607cf18" class="collapse" aria-labelledby="4590c1a3f91d452fbcd448f8a1eeb754" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
