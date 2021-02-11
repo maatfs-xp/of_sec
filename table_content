@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="d098a982e9cc4b3dacc5f7cf357ba99c">
+    <div class="card-header" id="4a9831b194b144e5b17a20b08b27bad2">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#f95402d9df2848edab55a58134001216" aria-expanded="false" aria-controls="f95402d9df2848edab55a58134001216"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#5df523407ef94022bbd041a5a0fe2a8f" aria-expanded="false" aria-controls="5df523407ef94022bbd041a5a0fe2a8f"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="f95402d9df2848edab55a58134001216" class="collapse" aria-labelledby="d098a982e9cc4b3dacc5f7cf357ba99c" data-parent="#accordionExample">
+    <div id="5df523407ef94022bbd041a5a0fe2a8f" class="collapse" aria-labelledby="4a9831b194b144e5b17a20b08b27bad2" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -23,23 +23,25 @@
 										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 											<tr >
 												<th scope="col" class="bg-warning">Valor da Posição</th>
-												<th scope="col" class="bg-warning">Deságio</th>
-												<th scope="col" class="bg-warning">Capital à ser Subscrito</th>
-												<th scope="col" class="bg-warning">Valor da Compra</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Fundo DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
 												<th scope="col" class="bg-warning">Validade</th>
 												<th scope="col" class="bg-warning"></th>
 											</tr>
 										</thead>
 										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
 											<tr >
-	<td style="text-align:center;vertical-align:middle">R$ 10,109.56</td>
-	<td style="text-align:center;vertical-align:middle">0%</td>
-	<td style="text-align:center;vertical-align:middle">R$ 194,943.0</td>
-	<td style="text-align:center;vertical-align:middle">R$ 10,615.04</td>
+	<td style="text-align:center;vertical-align:middle">10.072,89</td>
+	<td style="text-align:center;vertical-align:middle">0,00 %</td>
+	<td style="text-align:center;vertical-align:middle">10.576,53</td>
+	<td style="text-align:center;vertical-align:middle">194.943,00</td>
+	<td style="text-align:center;vertical-align:middle">205.519,53</td>
 	<td style="text-align:center;vertical-align:middle">20/02/2021</td>
 	<td >
-		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=EB Fibra FIP Multiestrategia - 31.392.355/0001-05&discount=0&value=R$ 10,615.04&sell_id=3tma0ux5yi1vicp1uhe7f3tma4dzf85m" data-toggle="lightbox" data-width="800">
-		<button type="button" class="btn btn-primary btn-sm">Comprar</button>
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=EB Fibra FIP Multiestrategia&discount=0&value=205.519,53&sell_id=3tma0ux5yi1vicp1uhe7f3tma4dzf85m" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Comprar</button>
 		</a>
 	</td>
 </tr>
