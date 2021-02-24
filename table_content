@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="01801c19d3bf487d9da0d2615f5f91a2">
+    <div class="card-header" id="02ee7c6cbee54480ba27974bae797feb">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#27ee73189ca8481cb69e6d8d279c0e7c" aria-expanded="false" aria-controls="27ee73189ca8481cb69e6d8d279c0e7c"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#e7be9019654b4b719cabe6b6eee284a4" aria-expanded="false" aria-controls="e7be9019654b4b719cabe6b6eee284a4"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="27ee73189ca8481cb69e6d8d279c0e7c" class="collapse" aria-labelledby="01801c19d3bf487d9da0d2615f5f91a2" data-parent="#accordionExample">
+    <div id="e7be9019654b4b719cabe6b6eee284a4" class="collapse" aria-labelledby="02ee7c6cbee54480ba27974bae797feb" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="37c93103aa5142359cf530bafcdde90b">
+    <div class="card-header" id="1ac7e0aa00584c90aaec3ba00956f713">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#d1d27841edbe4e0593c44bdbca21f866" aria-expanded="false" aria-controls="d1d27841edbe4e0593c44bdbca21f866"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#1e12eb925a4940d1971565a9314fd977" aria-expanded="false" aria-controls="1e12eb925a4940d1971565a9314fd977"> 
           Perfin Mercury FIP Infra
         </button>
       </h5>
     </div>
 
-    <div id="d1d27841edbe4e0593c44bdbca21f866" class="collapse" aria-labelledby="37c93103aa5142359cf530bafcdde90b" data-parent="#accordionExample">
+    <div id="1e12eb925a4940d1971565a9314fd977" class="collapse" aria-labelledby="1ac7e0aa00584c90aaec3ba00956f713" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -100,6 +100,65 @@
 	<td style="text-align:center;vertical-align:middle">17/02/2021</td>
 	<td >
 		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=Perfin Mercury FIP Infra&discount=15.0&value=39.581.504,23&sell_id=6m7lt6mxisjdbhs06p6m7ltzau2hmt78" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Comprar</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="f65392ead3254a188443beb061af24f6">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#d6810c3d42544392987b308ac048e260" aria-expanded="false" aria-controls="d6810c3d42544392987b308ac048e260"> 
+          XP Private Equity I FIP Multiestratégia
+        </button>
+      </h5>
+    </div>
+
+    <div id="d6810c3d42544392987b308ac048e260" class="collapse" aria-labelledby="f65392ead3254a188443beb061af24f6" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>XP Private Equity I FIP Multiestratégia</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">77.065,15</td>
+	<td style="text-align:center;vertical-align:middle">20,00 %</td>
+	<td style="text-align:center;vertical-align:middle">65.505,38</td>
+	<td style="text-align:center;vertical-align:middle">68.787,00</td>
+	<td style="text-align:center;vertical-align:middle">134.292,38</td>
+	<td style="text-align:center;vertical-align:middle">25/02/2021</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=XP Private Equity I FIP Multiestratégia&discount=20.0&value=134.292,38&sell_id=divjlgt64dksmfvasdivjlvwg5v3mjaw" data-toggle="lightbox" data-width="800">
 			<button type="button" class="btn btn-primary btn-sm">Comprar</button>
 		</a>
 	</td>
