@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="3c4017b7da12465e94fbd095c212679f">
+    <div class="card-header" id="fd6d0247e5754cc58ce83f3397cf80e7">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#53ecb794e1144766b336af52855ab0b7" aria-expanded="false" aria-controls="53ecb794e1144766b336af52855ab0b7"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#d8ee1e87cb5a410ca1d9847aef0f3375" aria-expanded="false" aria-controls="d8ee1e87cb5a410ca1d9847aef0f3375"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="53ecb794e1144766b336af52855ab0b7" class="collapse" aria-labelledby="3c4017b7da12465e94fbd095c212679f" data-parent="#accordionExample">
+    <div id="d8ee1e87cb5a410ca1d9847aef0f3375" class="collapse" aria-labelledby="fd6d0247e5754cc58ce83f3397cf80e7" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="b7825856e9d24d30bc2a4d418004cc75">
+    <div class="card-header" id="3fefb03b22014fe39c8258044deadac4">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#a62c3919124c4ab1824abd8ab10cfd37" aria-expanded="false" aria-controls="a62c3919124c4ab1824abd8ab10cfd37"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#1450a00c74c943daa042b947800d33c9" aria-expanded="false" aria-controls="1450a00c74c943daa042b947800d33c9"> 
           Perfin Mercury FIP Infra
         </button>
       </h5>
     </div>
 
-    <div id="a62c3919124c4ab1824abd8ab10cfd37" class="collapse" aria-labelledby="b7825856e9d24d30bc2a4d418004cc75" data-parent="#accordionExample">
+    <div id="1450a00c74c943daa042b947800d33c9" class="collapse" aria-labelledby="3fefb03b22014fe39c8258044deadac4" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -118,15 +118,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="7295dd32d88f4828b9e6e4310b137e1a">
+    <div class="card-header" id="7277bd2de2ac4fc39fcfb78881e2d12f">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#29388f6d75314c0aa801304904f4b658" aria-expanded="false" aria-controls="29388f6d75314c0aa801304904f4b658"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#916cf99f665f4c02959c164647a80f44" aria-expanded="false" aria-controls="916cf99f665f4c02959c164647a80f44"> 
           XP Private Equity I FIP Multiestratégia
         </button>
       </h5>
     </div>
 
-    <div id="29388f6d75314c0aa801304904f4b658" class="collapse" aria-labelledby="7295dd32d88f4828b9e6e4310b137e1a" data-parent="#accordionExample">
+    <div id="916cf99f665f4c02959c164647a80f44" class="collapse" aria-labelledby="7277bd2de2ac4fc39fcfb78881e2d12f" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
