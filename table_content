@@ -1,1 +1,60 @@
-Não há vendas disponíveis...
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="505d29d8d1bc463c9210c65d393d67a4">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#c7f486bf88264a88a8c787bf73b1ba52" aria-expanded="false" aria-controls="c7f486bf88264a88a8c787bf73b1ba52"> 
+          EB Fibra FIP Multiestrategia
+        </button>
+      </h5>
+    </div>
+
+    <div id="c7f486bf88264a88a8c787bf73b1ba52" class="collapse" aria-labelledby="505d29d8d1bc463c9210c65d393d67a4" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>EB Fibra FIP Multiestrategia</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">4.935,73</td>
+	<td style="text-align:center;vertical-align:middle">15,00 %</td>
+	<td style="text-align:center;vertical-align:middle">4.442,16</td>
+	<td style="text-align:center;vertical-align:middle">95.522,07</td>
+	<td style="text-align:center;vertical-align:middle">99.964,23</td>
+	<td style="text-align:center;vertical-align:middle">08/03/2021</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=EB Fibra FIP Multiestrategia&discount=15.0&value=99.964,23&sell_id=mqw75pnwuqhiagr4u6nkcmqw75pnwk7z" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div>
