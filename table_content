@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="505d29d8d1bc463c9210c65d393d67a4">
+    <div class="card-header" id="e085618c93ca4e70aafb8cfd16781fbc">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#c7f486bf88264a88a8c787bf73b1ba52" aria-expanded="false" aria-controls="c7f486bf88264a88a8c787bf73b1ba52"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#b7c281ab317f488ca8ac927f1091a06d" aria-expanded="false" aria-controls="b7c281ab317f488ca8ac927f1091a06d"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="c7f486bf88264a88a8c787bf73b1ba52" class="collapse" aria-labelledby="505d29d8d1bc463c9210c65d393d67a4" data-parent="#accordionExample">
+    <div id="b7c281ab317f488ca8ac927f1091a06d" class="collapse" aria-labelledby="e085618c93ca4e70aafb8cfd16781fbc" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -41,6 +41,65 @@
 	<td style="text-align:center;vertical-align:middle">08/03/2021</td>
 	<td >
 		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=EB Fibra FIP Multiestrategia&discount=15.0&value=99.964,23&sell_id=mqw75pnwuqhiagr4u6nkcmqw75pnwk7z" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="51a87e8031b244588dcb505cf676b1e4">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#c9b63d31e2b64e89ac8040797c39f6a9" aria-expanded="false" aria-controls="c9b63d31e2b64e89ac8040797c39f6a9"> 
+          Vinci Impacto e Retorno Advisory FIP Multiestrategia
+        </button>
+      </h5>
+    </div>
+
+    <div id="c9b63d31e2b64e89ac8040797c39f6a9" class="collapse" aria-labelledby="51a87e8031b244588dcb505cf676b1e4" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>Vinci Impacto e Retorno Advisory FIP Multiestrategia</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">2.620,01</td>
+	<td style="text-align:center;vertical-align:middle">15,00 %</td>
+	<td style="text-align:center;vertical-align:middle">2.358,01</td>
+	<td style="text-align:center;vertical-align:middle">45.100,00</td>
+	<td style="text-align:center;vertical-align:middle">47.458,01</td>
+	<td style="text-align:center;vertical-align:middle">10/03/2021</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=Vinci Impacto e Retorno Advisory FIP Multiestrategia&discount=15.0&value=47.458,01&sell_id=n0fg5sryoimu9saixjpkn0fg5sj2bz26" data-toggle="lightbox" data-width="800">
 			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
 		</a>
 	</td>
