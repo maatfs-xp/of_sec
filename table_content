@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="ba66ac0e8e1b4ba6bd946546ea347034">
+    <div class="card-header" id="35e3480a81ad4727993bf8e1a5f2c4a7">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#b0b25a2d185c4e99abc4071fa475fefc" aria-expanded="false" aria-controls="b0b25a2d185c4e99abc4071fa475fefc"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#dba56105ea654c7d80823c9b5993880d" aria-expanded="false" aria-controls="dba56105ea654c7d80823c9b5993880d"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="b0b25a2d185c4e99abc4071fa475fefc" class="collapse" aria-labelledby="ba66ac0e8e1b4ba6bd946546ea347034" data-parent="#accordionExample">
+    <div id="dba56105ea654c7d80823c9b5993880d" class="collapse" aria-labelledby="35e3480a81ad4727993bf8e1a5f2c4a7" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="01c4a3b92e95402ea721a1144e62ebe2">
+    <div class="card-header" id="0fdf4d4d8abd4deda0e2689131e52868">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#9dd3de7fa73d414eaf8ea3f663bc9007" aria-expanded="false" aria-controls="9dd3de7fa73d414eaf8ea3f663bc9007"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#512d4c5b701a4fffb811e7b587ceef8f" aria-expanded="false" aria-controls="512d4c5b701a4fffb811e7b587ceef8f"> 
           Vinci Impacto e Retorno Advisory FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="9dd3de7fa73d414eaf8ea3f663bc9007" class="collapse" aria-labelledby="01c4a3b92e95402ea721a1144e62ebe2" data-parent="#accordionExample">
+    <div id="512d4c5b701a4fffb811e7b587ceef8f" class="collapse" aria-labelledby="0fdf4d4d8abd4deda0e2689131e52868" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -100,6 +100,65 @@
 	<td style="text-align:center;vertical-align:middle">10/03/2021</td>
 	<td >
 		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=Vinci Impacto e Retorno Advisory FIP Multiestrategia&discount=15.0&value=47.820,79&sell_id=n0fg5sryoimu9saixjpkn0fg5sj2bz26" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="b32b8b21e9b6443aae05c2a56643f3b1">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#eaf667fefbab478dad1fdcbe3f4d588b" aria-expanded="false" aria-controls="eaf667fefbab478dad1fdcbe3f4d588b"> 
+          XP Private Equity I FIP Multiestratégia
+        </button>
+      </h5>
+    </div>
+
+    <div id="eaf667fefbab478dad1fdcbe3f4d588b" class="collapse" aria-labelledby="b32b8b21e9b6443aae05c2a56643f3b1" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>XP Private Equity I FIP Multiestratégia</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">77.010,34</td>
+	<td style="text-align:center;vertical-align:middle">15,00 %</td>
+	<td style="text-align:center;vertical-align:middle">69.309,31</td>
+	<td style="text-align:center;vertical-align:middle">68.787,00</td>
+	<td style="text-align:center;vertical-align:middle">138.096,31</td>
+	<td style="text-align:center;vertical-align:middle">07/03/2021</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=XP Private Equity I FIP Multiestratégia&discount=15.0&value=138.096,31&sell_id=ppn9agymfeml6rbr4bppn9agyt2ocjed" data-toggle="lightbox" data-width="800">
 			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
 		</a>
 	</td>
