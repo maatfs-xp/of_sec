@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="a61fa5d4158e4d8a86565ccdab043b1b">
+    <div class="card-header" id="2ef81e13824f46e38376fec80e75e9c0">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#c70527a9cb2e455d9a9411de717446bc" aria-expanded="false" aria-controls="c70527a9cb2e455d9a9411de717446bc"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#95ecf27de12c49a4aae5888b00cfc9e8" aria-expanded="false" aria-controls="95ecf27de12c49a4aae5888b00cfc9e8"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="c70527a9cb2e455d9a9411de717446bc" class="collapse" aria-labelledby="a61fa5d4158e4d8a86565ccdab043b1b" data-parent="#accordionExample">
+    <div id="95ecf27de12c49a4aae5888b00cfc9e8" class="collapse" aria-labelledby="2ef81e13824f46e38376fec80e75e9c0" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="49fb9ae918c449d4b224451b6bb34cc4">
+    <div class="card-header" id="b5207dfc1f6849ee82e35b1cce90b864">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#2264346390964cfc9d586ee944fa2dce" aria-expanded="false" aria-controls="2264346390964cfc9d586ee944fa2dce"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#5f7a446c0625400598d93ed1307cad0c" aria-expanded="false" aria-controls="5f7a446c0625400598d93ed1307cad0c"> 
           Vinci Impacto e Retorno Advisory FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="2264346390964cfc9d586ee944fa2dce" class="collapse" aria-labelledby="49fb9ae918c449d4b224451b6bb34cc4" data-parent="#accordionExample">
+    <div id="5f7a446c0625400598d93ed1307cad0c" class="collapse" aria-labelledby="b5207dfc1f6849ee82e35b1cce90b864" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
