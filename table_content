@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="6c09e9293db74da4975c6ec0a9658778">
+    <div class="card-header" id="a09698e314a14332a80700abdd0fbad9">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#9ac7c60fed38469fbe6bc75550d661a5" aria-expanded="false" aria-controls="9ac7c60fed38469fbe6bc75550d661a5"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#25a7371fab9e48fb9d82e571995b572d" aria-expanded="false" aria-controls="25a7371fab9e48fb9d82e571995b572d"> 
           Vinci Impacto e Retorno Advisory FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="9ac7c60fed38469fbe6bc75550d661a5" class="collapse" aria-labelledby="6c09e9293db74da4975c6ec0a9658778" data-parent="#accordionExample">
+    <div id="25a7371fab9e48fb9d82e571995b572d" class="collapse" aria-labelledby="a09698e314a14332a80700abdd0fbad9" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
