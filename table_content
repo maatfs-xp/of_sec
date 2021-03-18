@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="145b94498c564a37b8a5354769bf5a60">
+    <div class="card-header" id="1adb8f28b3684f6599bb5a8ba11b699e">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#89758b4f431c41c8ae1b171ea76d1969" aria-expanded="false" aria-controls="89758b4f431c41c8ae1b171ea76d1969"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#40f05091746c434e8124dfc0b1962358" aria-expanded="false" aria-controls="40f05091746c434e8124dfc0b1962358"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="89758b4f431c41c8ae1b171ea76d1969" class="collapse" aria-labelledby="145b94498c564a37b8a5354769bf5a60" data-parent="#accordionExample">
+    <div id="40f05091746c434e8124dfc0b1962358" class="collapse" aria-labelledby="1adb8f28b3684f6599bb5a8ba11b699e" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
