@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="6a799f46982141309ed83d74d38ae38a">
+    <div class="card-header" id="8742e57a23d5473fa2a31cce963b4917">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#edd1c1f058b54b3987f302044a44e72d" aria-expanded="false" aria-controls="edd1c1f058b54b3987f302044a44e72d"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#2a36aecb399d42e19710e220dfbbc518" aria-expanded="false" aria-controls="2a36aecb399d42e19710e220dfbbc518"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="edd1c1f058b54b3987f302044a44e72d" class="collapse" aria-labelledby="6a799f46982141309ed83d74d38ae38a" data-parent="#accordionExample">
+    <div id="2a36aecb399d42e19710e220dfbbc518" class="collapse" aria-labelledby="8742e57a23d5473fa2a31cce963b4917" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -41,6 +41,65 @@
 	<td style="text-align:center;vertical-align:middle">01/04/2021</td>
 	<td >
 		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=EB Fibra FIP Multiestrategia&discount=5.0&value=1.944.092,74&sell_id=6ryr5rez0tgqlov3fc6ryr5nchv1tlnz" data-toggle="lightbox" data-width="800">
+			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
+		</a>
+	</td>
+</tr>
+
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+		</div>
+	</div>
+</div><div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="cb61d270db6341168bb2c09b565f8bf4">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#5b4c60b656ad440ca2f8a1acd8efad6d" aria-expanded="false" aria-controls="5b4c60b656ad440ca2f8a1acd8efad6d"> 
+          XP Private Equity I FIP Multiestratégia
+        </button>
+      </h5>
+    </div>
+
+    <div id="5b4c60b656ad440ca2f8a1acd8efad6d" class="collapse" aria-labelledby="cb61d270db6341168bb2c09b565f8bf4" data-parent="#accordionExample">
+
+			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
+				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
+					<td>XP Private Equity I FIP Multiestratégia</td>
+				</tr>
+				<tr style="border-collapse:collapse">
+					<td>
+						<table cellpadding="0" cellspacing="0" width="100%" role="presentation" bgcolor="#ffffff" style="mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
+							<tr style="border-collapse:collapse">
+								<td >
+									<table class="table table-hover " >
+										<thead style="font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+											<tr >
+												<th scope="col" class="bg-warning">Valor da Posição</th>
+												<th scope="col" class="bg-warning">Desconto</th>
+												<th scope="col" class="bg-warning">Valor a Pagar FIP</th>
+												<th scope="col" class="bg-warning">Valor a Pagar DI</th>
+												<th scope="col" class="bg-warning">Valor a Pagar Total</th>
+												<th scope="col" class="bg-warning">Validade</th>
+												<th scope="col" class="bg-warning"></th>
+											</tr>
+										</thead>
+										<tbody class="table table-hover " style="font-size:12px;overflow:hidden;text-align:center;vertical-align:middle">
+											<tr >
+	<td style="text-align:center;vertical-align:middle">76.805,16</td>
+	<td style="text-align:center;vertical-align:middle">0,00 %</td>
+	<td style="text-align:center;vertical-align:middle">80.645,42</td>
+	<td style="text-align:center;vertical-align:middle">68.787,00</td>
+	<td style="text-align:center;vertical-align:middle">149.432,42</td>
+	<td style="text-align:center;vertical-align:middle">30/04/2021</td>
+	<td >
+		<a href="https://treinamentoxp.typeform.com/to/mvIR0T79#fund_name=XP Private Equity I FIP Multiestratégia&discount=0.0&value=149.432,42&sell_id=mq71thka0aipj33w3pvmq71th44x7l4j" data-toggle="lightbox" data-width="800">
 			<button type="button" class="btn btn-primary btn-sm">Solicitar Compra</button>
 		</a>
 	</td>
