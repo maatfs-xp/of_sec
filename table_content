@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="e495486527e24df3aaaf64efff344fc1">
+    <div class="card-header" id="9fb63521a55443a2874df3f231f1c72e">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#ab3cd53a7c004a4bb6c48c5b8b3abe53" aria-expanded="false" aria-controls="ab3cd53a7c004a4bb6c48c5b8b3abe53"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#ec237cc7c14f41e6b4c524803dd751df" aria-expanded="false" aria-controls="ec237cc7c14f41e6b4c524803dd751df"> 
           EB Fibra FIP Multiestrategia
         </button>
       </h5>
     </div>
 
-    <div id="ab3cd53a7c004a4bb6c48c5b8b3abe53" class="collapse" aria-labelledby="e495486527e24df3aaaf64efff344fc1" data-parent="#accordionExample">
+    <div id="ec237cc7c14f41e6b4c524803dd751df" class="collapse" aria-labelledby="9fb63521a55443a2874df3f231f1c72e" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
@@ -59,15 +59,15 @@
 	</div>
 </div><div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="03e231b244184837a4f7b34803c59728">
+    <div class="card-header" id="628013fc8c9744f98119233f441cdddd">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#fb84c795d74f4a349fc230fc1e386955" aria-expanded="false" aria-controls="fb84c795d74f4a349fc230fc1e386955"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#ae7455b143fd430a812c21f1395848f5" aria-expanded="false" aria-controls="ae7455b143fd430a812c21f1395848f5"> 
           XP Private Equity I FIP Multiestratégia
         </button>
       </h5>
     </div>
 
-    <div id="fb84c795d74f4a349fc230fc1e386955" class="collapse" aria-labelledby="03e231b244184837a4f7b34803c59728" data-parent="#accordionExample">
+    <div id="ae7455b143fd430a812c21f1395848f5" class="collapse" aria-labelledby="628013fc8c9744f98119233f441cdddd" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
