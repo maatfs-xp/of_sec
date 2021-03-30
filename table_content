@@ -1,14 +1,14 @@
 <div class="accordion" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="0266813db89c4807b352f2a269dd7552">
+    <div class="card-header" id="5e754af1beac423481d8dac153c9c816">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#86276c98a795453db581ec586907ae29" aria-expanded="false" aria-controls="86276c98a795453db581ec586907ae29"> 
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#dbfbd569a29c467f8572d1d9d1e16bda" aria-expanded="false" aria-controls="dbfbd569a29c467f8572d1d9d1e16bda"> 
           XP Private Equity I FIP Multiestratégia
         </button>
       </h5>
     </div>
 
-    <div id="86276c98a795453db581ec586907ae29" class="collapse" aria-labelledby="0266813db89c4807b352f2a269dd7552" data-parent="#accordionExample">
+    <div id="dbfbd569a29c467f8572d1d9d1e16bda" class="collapse" aria-labelledby="5e754af1beac423481d8dac153c9c816" data-parent="#accordionExample">
 
 			<table cellpadding="0" cellspacing="0" width="50%" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;">
 				<tr style="font-family:Arial, sans-serif;font-size:24px;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal; height: 40px">
